@@ -1,0 +1,18 @@
+
+    .strategic_investors{
+        display: flex;
+        margin: auto;
+       
+        
+
+
+    }
+    .strategic_investors>div{
+        text-align: center;
+        border: 3px solid whitesmoke;
+        border-radius: 10px ;
+        margin: auto;
+        
+    }
+    
+
